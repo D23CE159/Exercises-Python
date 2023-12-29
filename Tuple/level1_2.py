@@ -4,7 +4,7 @@
 empty_tuple = ()
 print(empty_tuple)
 
-""" 2 Create a tuple containing names of your sisters and your brothers(imaginary
+""" 2 create a tuple containing names of your sisters and your brothers(imaginary
 siblings are fine)"""
 sisters = ('Deepika', 'Sara', 'karina', 'Priyanka', 'Mrunal')
 brothers = ('Dhoni', 'Rohit', 'Ravindra', 'Shikhar', 'Raina')
@@ -32,7 +32,7 @@ print(unpacking)
 print(father_mother)
 print(siblings)
 
-"""2 Create fruits, vegetables and animal products tuples. Join the three
+"""2 create fruits, vegetables and animal products tuples. join the three
 tuples and assign it to a variable called food_stuff_tp"""
 fruits = ('apple', 'banana', 'orange', 'guava', 'pear')
 vegetables = ('carrot', 'tomato', 'potato', 'bottle gourd', 'Lady finger')
