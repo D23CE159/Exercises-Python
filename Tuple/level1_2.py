@@ -57,8 +57,8 @@ print(first_three)
 print(last_three)
 
 # 6 Delete the food_staff_tp tuple completely
-# del food_stuff_tp
-# print(food_stuff_tp)
+del food_stuff_tp
+print(food_stuff_tp)
 
 # 7 Check if an item exists in tuple
 if 'lion' in food_stuff_tp:
