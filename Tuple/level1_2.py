@@ -32,7 +32,7 @@ print(unpacking)
 print(father_mother)
 print(siblings)
 
-""" 2 create fruits, vegetables and animal products tuples. join the three
+"""2 create fruits, vegetables and animal products tuples. join the three
 tuples & assign it to a variable called food_stuff_tp"""
 fruits = ('apple', 'banana', 'orange', 'guava', 'pear')
 vegetables = ('carrot', 'tomato', 'potato', 'bottle gourd', 'Lady finger')
