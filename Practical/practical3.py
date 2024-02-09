@@ -37,8 +37,6 @@ country.update({"mountain": "Girnar"})
 for key, value in country.items():
     print(f"{key}: {value}")
 
-
-
 del country["population"]
 print(country)
 
